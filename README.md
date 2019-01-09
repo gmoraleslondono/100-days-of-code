@@ -11,6 +11,17 @@ After a long time thinking 🙄 about starting, today I said "Challenge accepted
 * [www.w3schools.com](https://www.w3schools.com)
 * [exercism.io](https://exercism.io)
 
+## Day 1: January 9, Wednesday.
+
+**Today's Progress**:
+
+🛫 Starting! Taking a quick HTML review🛵.
+I remembered the markup language structure, syntax and some elements that usually are used🤓.
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/gZjERP)
+* [Freecodecamp practice](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element)
+
 ## Credits
 
 The Official Website for the Challenge [www.100daysofcode.com](https://www.100daysofcode.com)
