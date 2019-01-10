@@ -22,6 +22,16 @@ I remembered the markup language structure, syntax and some elements that usuall
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/gZjERP)
 * [Freecodecamp practice](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/nest-many-elements-within-a-single-div-element)
 
+## Day 2: January 10, Thursday.
+
+**Today's Progress**:
+
+Today I went into Cascading Style Sheets (CSS). 👩‍Exploring the relationship between content, padding, margin, and border📏 also known as the box model📦
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/vvVyeR)
+* [Freecodecamp practice](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
+
 ## Credits
 
 The Official Website for the Challenge [www.100daysofcode.com](https://www.100daysofcode.com)
