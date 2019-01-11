@@ -32,6 +32,25 @@ Today I went into Cascading Style Sheets (CSS). 👩‍Exploring the relationshi
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/vvVyeR)
 * [Freecodecamp practice](https://learn.freecodecamp.org/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element)
 
+## Day 3: January 11, Friday.
+
+**Today's Progress**:
+
+🍝CSS Diner: A game for learning CSS selectors. Done✅
+
+Selectors are how you pick which element to apply styles to.
+
+```CSS
+h1 {
+    text-align: center;
+}
+```
+Here h1 is the selector. Sellect all `<h1>` elements and applies text-align style.
+
+**Link(s) to work**:
+* [CSS Diner](https://flukeout.github.io/)  Made by @flukeout
+
+
 ## Credits
 
 The Official Website for the Challenge [www.100daysofcode.com](https://www.100daysofcode.com)
