@@ -50,6 +50,21 @@ Here h1 is the selector. Sellect all `<h1>` elements and applies text-align styl
 **Link(s) to work**:
 * [CSS Diner](https://flukeout.github.io/)  Made by @flukeout
 
+## Day 4: January 12, Saturday.
+
+**Today's Progress**:
+
+How CSS style overriding works by relevance:
+
+* Id style
+* Class style (Last class declaration more relevant)
+* Element style
+
+When *!important* rule is used, it overrides any other style declarations.
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/vvQPKa?editors=1100)
+* [Freecodecamp practice](https://learn.freecodecamp.org/responsive-web-design/basic-css/override-all-other-styles-by-using-important)
 
 ## Credits
 
