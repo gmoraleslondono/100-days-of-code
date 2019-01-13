@@ -66,6 +66,37 @@ When *!important* rule is used, it overrides any other style declarations.
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/vvQPKa?editors=1100)
 * [Freecodecamp practice](https://learn.freecodecamp.org/responsive-web-design/basic-css/override-all-other-styles-by-using-important)
 
+## Day 5: January 13, Sunday.
+
+**Today's Progress**:
+
+Keep going with CSS🤠
+
+👩‍🎨Style a specific color using:
+Color name, Hex code, abbreviated Hex Code or RGB values.
+
+```CSS
+/*Color name*/
+.text-green {
+  color: green;
+}
+/*Hex code*/
+.text-pink {
+  color: #FFC0CB;
+}
+/*Hex code abbreviated*/
+.text-white {
+  color: #FFF;
+}
+/*RGB value*/
+.text-red {
+  color: rgb(255,0,0);
+}
+```
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/zyyZee?editors=1100)
+
+
 ## Credits
 
 The Official Website for the Challenge [www.100daysofcode.com](https://www.100daysofcode.com)
