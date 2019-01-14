@@ -96,6 +96,18 @@ Color name, Hex code, abbreviated Hex Code or RGB values.
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/zyyZee?editors=1100)
 
+## Day 6: January 14, Monday.
+
+**Today's Progress**:
+
+📋 CSS variables
+Today, I complemented Freecodecamp tutorial with some of w3school 😎✨
+
+https://www.w3schools.com/css/css3_variables.asp
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/roPGNZ)
+
 
 ## Credits
 
