@@ -108,6 +108,10 @@ https://www.w3schools.com/css/css3_variables.asp
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/roPGNZ)
 
+## Day 7: January 15, Tusday.
+
+I was working on my portfolio 👩‍🏭 and I did some CSS Freecodecamp challenges 💫 , for today no too much to show or say.😬
+
 
 ## Credits
 
