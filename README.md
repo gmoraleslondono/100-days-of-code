@@ -112,6 +112,12 @@ https://www.w3schools.com/css/css3_variables.asp
 
 I was working on my portfolio 👩‍🏭 and I did some CSS Freecodecamp challenges 💫 , for today no too much to show or say.😬
 
+## Day 8: January 16, Wednesday.
+
+Understanding GitHub 😺 Took time (almost all afternoon🤪) but finally, I created my repository 🤖
+
+**Link(s) to work**:
+* [GitHub Portfolio](https://github.com/gmoraleslondono/portfolio)
 
 ## Credits
 
