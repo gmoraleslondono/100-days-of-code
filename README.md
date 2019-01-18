@@ -119,6 +119,14 @@ Understanding GitHub 😺 Took time (almost all afternoon🤪) but finally, I cr
 **Link(s) to work**:
 * [GitHub Portfolio](https://github.com/gmoraleslondono/portfolio)
 
+## Day 9: January 18, Friday.
+
+✅ Still doing my portfolio 😝 and practiced some CSS properties.
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/QzXeZo)
+
+
 ## Credits
 
 The Official Website for the Challenge [www.100daysofcode.com](https://www.100daysofcode.com)
