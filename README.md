@@ -126,6 +126,16 @@ Understanding GitHub 😺 Took time (almost all afternoon🤪) but finally, I cr
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/QzXeZo)
 
+## Day 10: January 21, Monday.
+
+And finally, this is my portfolio🥳
+(Still building 👩‍🔧)
+❤️---❤️---❤️-->
+
+**Link(s) to work**:
+* [Gloria Morales Portfolio](https://gmoraleslondono.design)
+* [GitHub repository - Portfolio](https://github.com/gmoraleslondono/portfolio)
+
 
 ## Credits
 
