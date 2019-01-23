@@ -108,7 +108,7 @@ https://www.w3schools.com/css/css3_variables.asp
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/roPGNZ)
 
-## Day 7: January 15, Tusday.
+## Day 7: January 15, Tuesday.
 
 I was working on my portfolio 👩‍🏭 and I did some CSS Freecodecamp challenges 💫 , for today no too much to show or say.😬
 
@@ -136,6 +136,17 @@ And finally, this is my portfolio🥳
 * [Gloria Morales Portfolio](https://gmoraleslondono.design)
 * [GitHub repository - Portfolio](https://github.com/gmoraleslondono/portfolio)
 
+## Day 11: January 22, Tuesday.
+
+🧐 Exploring CSS properties:
+     
+     👉🏿 position 🗺️
+      
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/aXzBBb)
+
+
+------------------------>
 
 ## Credits
 
