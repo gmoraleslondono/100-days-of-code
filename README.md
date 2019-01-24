@@ -145,6 +145,13 @@ And finally, this is my portfolio🥳
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/aXzBBb)
 
+## Day 12: January 23, Wednesday.
+
+😍 I am in love with CSS.
+I tried some animations and look here ⬇️ the result.😊
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/jdbOdN)
 
 ------------------------>
 
