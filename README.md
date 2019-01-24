@@ -153,6 +153,18 @@ I tried some animations and look here ⬇️ the result.😊
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/jdbOdN)
 
+## Day 13: January 24, Thursday.
+
+📲 Accessibility web content challenges 🔤
+
+* ☝️Have well-organized code that uses appropriate markup.
+* ✌️Ensure text alternatives exist for non-text and visual content.
+* 🤟Create an easily-navigated page that's keyboard-friendly.
+     From @freeCodeCamp 🤩
+     
+ **Link(s) to work**:
+* [Freecodecamp](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)    
+
 ------------------------>
 
 ## Credits
