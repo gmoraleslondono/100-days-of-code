@@ -163,7 +163,15 @@ I tried some animations and look here ⬇️ the result.😊
      From @freeCodeCamp 🤩
      
  **Link(s) to work**:
-* [Freecodecamp](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)    
+* [Freecodecamp](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility) 
+
+## Day 14: January 26, Saturday.
+
+🛠️ Practicing some HTML tags.
+I still follow freeCodeCamp tutorial 🤓
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/pGgMJM)
 
 ------------------------>
 
