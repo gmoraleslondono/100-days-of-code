@@ -173,6 +173,13 @@ I still follow freeCodeCamp tutorial 🤓
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/pGgMJM)
 
+## Day 15: January 27, Sunday.
+
+Today I meet amazing women 😊 learnt basic Python 🤖 and enjoyed 3D workshop 😯🐖 Great Sunday Meetup!
+
+* [Cute pig made in 3D print](https://twitter.com/gmoraleslondono/status/1089590881789898752)
+
+
 ------------------------>
 
 ## Credits
