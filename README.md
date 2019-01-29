@@ -179,6 +179,14 @@ Today I meet amazing women 😊 learnt basic Python 🤖 and enjoyed 3D workshop
 
 * [Cute pig made in 3D print](https://twitter.com/gmoraleslondono/status/1089590881789898752)
 
+## Day 16: January 29, Tuesday.
+
+CSS Flexbox📦
+
+🌈 Learned how to design flexible and responsive layouts 🎑
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/qgapXb)
 
 ------------------------>
 
