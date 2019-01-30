@@ -188,6 +188,16 @@ CSS Flexbox📦
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/qgapXb)
 
+
+## Day 17: January 30, Wednesday.
+
+Today I practiced what I learned yesterday. I used an amazing and interactive website Flexbox Froggy.
+It is a game for learning CSS flexbox created by Codepip 
+
+**Link(s) to work**:
+* [Flexbox Froggy](https://flexboxfroggy.com)
+
+
 ------------------------>
 
 ## Credits
