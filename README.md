@@ -197,6 +197,12 @@ It is a game for learning CSS flexbox created by Codepip
 **Link(s) to work**:
 * [Flexbox Froggy](https://flexboxfroggy.com)
 
+## Day 18: January 31, Thursday.
+
+I have been learning #CSS grid, this article help me to understand a lot😌🔢
+
+* [CSS Grid for Designers](https://link.medium.com/pxMGML3cWT) by Johna Paolino
+
 
 ------------------------>
 
