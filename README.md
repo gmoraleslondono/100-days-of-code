@@ -203,6 +203,18 @@ I have been learning #CSS grid, this article help me to understand a lot😌🔢
 
 * [CSS Grid for Designers](https://link.medium.com/pxMGML3cWT) by Johna Paolino
 
+## Day 19: February 1, Friday.
+
+Watering carrots to practice #CSS grid 🥕🚿😄 
+
+👩‍🏫Also, I practiced some properties in codepen.
+
+Grid Garden is a game created by Codepip.
+
+**Link(s) to work**:
+* [Grid Garden](https://cssgridgarden.com)
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/KJWGRb)
+
 
 ------------------------>
 
