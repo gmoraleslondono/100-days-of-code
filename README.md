@@ -215,6 +215,14 @@ Grid Garden is a game created by Codepip.
 * [Grid Garden](https://cssgridgarden.com)
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/KJWGRb)
 
+## Day 20: February 2, Saturday.
+
+🤗 I am celebrating twenty days of code 👏 and finished my first project 🥳💃
+
+Look here my tribute page to Dr. Manuel Elkin Patarroyo #vaccineagainstmalaria
+
+**Link(s) to work**:
+* Project 1 - Tribute page: [Codepen practice](https://codepen.io/gmoraleslondono/pen/KJWGRb)
 
 ------------------------>
 
