@@ -224,6 +224,14 @@ Look here my tribute page to Dr. Manuel Elkin Patarroyo #vaccineagainstmalaria
 **Link(s) to work**:
 * Project 1 - Tribute page: [Codepen practice](https://codepen.io/gmoraleslondono/pen/KJWGRb)
 
+## Day 21: February 3, Sunday.
+
+Taking advantage to the bad weather 🥶 and staying at home 😏 I did #freeCodeCamp project 2: Build a Survey Form.📑
+
+**Link(s) to work**:
+* project 2 - Build a Survey Form: [Codepen practice](https://codepen.io/gmoraleslondono/full/qgmJYd)
+
+
 ------------------------>
 
 ## Credits
