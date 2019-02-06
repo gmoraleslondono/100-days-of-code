@@ -231,6 +231,15 @@ Taking advantage to the bad weather 🥶 and staying at home 😏 I did #freeCod
 **Link(s) to work**:
 * project 2 - Build a Survey Form: [Codepen practice](https://codepen.io/gmoraleslondono/full/qgmJYd)
 
+## Day 22: February 6, Wednesday.
+
+👩‍🔧 Doing  #freeCodeCamp  Responsive Web Design Projects 💞 
+
+Project 3: Product Landing Page 😎
+
+**Link(s) to work**:
+* Project 3 - Product Landing Page: [Codepen practice](https://codepen.io/gmoraleslondono/full/ErvLbX)
+
 
 ------------------------>
 
