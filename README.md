@@ -240,6 +240,16 @@ Project 3: Product Landing Page 😎
 **Link(s) to work**:
 * Project 3 - Product Landing Page: [Codepen practice](https://codepen.io/gmoraleslondono/full/ErvLbX)
 
+## Day 23: February 10, Sunday.
+
+😊 Still with  #freeCodeCamp  Responsive Web Design Projects  💪
+
+Project 4: Technical Documentation Page 🤖
+
+**Link(s) to work**:
+* Project 4 - Technical Documentation Page: [Codepen practice](https://codepen.io/gmoraleslondono/full/aXqboq)
+
+
 
 ------------------------>
 
