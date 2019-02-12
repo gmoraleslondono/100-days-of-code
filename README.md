@@ -249,6 +249,16 @@ Project 4: Technical Documentation Page 🤖
 **Link(s) to work**:
 * Project 4 - Technical Documentation Page: [Codepen practice](https://codepen.io/gmoraleslondono/full/aXqboq)
 
+## Day 24: February 12, Tuesday.
+
+🥳 #freeCodeCamp  Responsive Web Design Projects  💪
+
+Project 5: Build a Personal Portfolio Webpage 👩‍💻
+
+
+**Link(s) to work**:
+* Project 5 - Personal Portfolio Webpage: [Codepen practice](https://codepen.io/gmoraleslondono/full/KJedOM)
+
 
 
 ------------------------>
