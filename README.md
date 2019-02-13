@@ -260,6 +260,13 @@ Project 5: Build a Personal Portfolio Webpage 👩‍💻
 * Project 5 - Personal Portfolio Webpage: [Codepen practice](https://codepen.io/gmoraleslondono/full/KJedOM)
 
 
+## Day 25: February 13, Wednesday.
+
+Starting with fundamental #javascript 🥳
+
+🙏 I hope I will get soon my Javascript Algorithms And Data Structures 🙄 #freecodecamp certification 👩‍🎓
+
+
 
 ------------------------>
 
