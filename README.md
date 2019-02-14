@@ -266,6 +266,40 @@ Starting with fundamental #javascript 🥳
 
 🙏 I hope I will get soon my Javascript Algorithms And Data Structures 🙄 #freecodecamp certification 👩‍🎓
 
+## Day 26: February 14, Thursday.
+
+Learning JavaScript Basic Methods
+
+**.push()** ---> Adds one or more parameters at the end of the array.
+
+```JavaScript
+var arr = [1,2,3];
+arr.push(4);
+//arr is now [1,2,3,4]
+```
+**.pop()** ---> Removes the last element from an array and returns that element.
+
+```JavaScript
+var arr = [1,2,3];
+var val = arr.pop();
+//arr is now [1,2]
+//val is now [3]
+```
+**.shift()** ---> Removes the first element from an array.
+
+```JavaScript
+var arr = [1,2,3];
+var val = arr.shift();
+//arr is now [2,3]
+//val is now [1]
+```
+**.unshift()** ---> Adds the element at the beginning of the array.
+
+```JavaScript
+var arr = [1,2,3];
+arr.unshift(0);
+//arr is now [0,1,2,3]
+```
 
 
 ------------------------>
