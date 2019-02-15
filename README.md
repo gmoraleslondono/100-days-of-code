@@ -301,6 +301,17 @@ arr.unshift(0);
 //arr is now [0,1,2,3]
 ```
 
+## Day 27: February 15, Friday.
+
+Taking time to learn about version control and GitHub. Today I used GitHub Learning Lab to practice:
+
+😻 Introduction to GitHub.
+
+🤳 Communicating using Markdown.
+
+**Link(s) to work**:
+* [GitHub Learning Lab](https://lab.github.com/courses)
+
 
 ------------------------>
 
