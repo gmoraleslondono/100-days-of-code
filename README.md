@@ -314,7 +314,7 @@ Taking time to learn about version control and GitHub. Today I used GitHub Learn
 
 ## Day 28: February 16, Saturday.
 
-Scope determines the accessibility (visibility) of variables.
+Scope refers to the visibility of variables.
 
 In JavaScript there are two types of scope:
 
