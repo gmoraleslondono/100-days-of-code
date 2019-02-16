@@ -312,6 +312,31 @@ Taking time to learn about version control and GitHub. Today I used GitHub Learn
 **Link(s) to work**:
 * [GitHub Learning Lab](https://lab.github.com/courses)
 
+## Day 28: February 16, Saturday.
+
+Scope determines the accessibility (visibility) of variables.
+
+In JavaScript there are two types of scope:
+
+   * Local scope
+   * Global scope
+    
+```JavaScript
+    var someColor = "red"; // Variable with global scope
+    
+    function myFun() {
+        var someSentence = someColor + " hat"; // Variable with local scope
+        return someSentence;
+    }
+    
+    console.log("I have a " + myFun()); // I have a red hat
+```
+**Link(s) to resources**:
+
+* [w3schools](https://www.w3schools.com/js/js_scope.asp)
+* [Freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/global-vs--local-scope-in-functions/
+)
+
 
 ------------------------>
 
