@@ -320,6 +320,10 @@ In JavaScript there are two types of scope:
 
    * Local scope
    * Global scope
+   
+Variables which are defined outside of a function block have Global scope. This means, they can be seen everywhere in your JavaScript code.
+
+See an example:
     
 ```JavaScript
     var someColor = "red"; // Variable with global scope
