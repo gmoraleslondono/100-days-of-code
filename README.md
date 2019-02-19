@@ -341,6 +341,95 @@ See an example:
 * [Freecodecamp](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/global-vs--local-scope-in-functions/
 )
 
+## Day 29: February 19, Tuesday.
+
+🥳 Learning #JavaScript 🧙‍♀️ how to use functions. I did a comparative exercise for lookups: Using Objects Vs Switch statement Vs Else if statement ⬇️
+
+
+**Switch statement:**
+
+```JavaScript
+
+function myFunction(val) {
+    var result = "";
+
+    switch(val) {
+      case "a": 
+        result = "Adams";
+        break;
+      case "b": 
+        result = "Boston";
+        break;
+      case "c": 
+        result = "Chicago";
+        break;
+      case "d": 
+        result = "Denver";
+        break;
+      case "e": 
+        result = "Easy";
+        break;
+      case "f": 
+        result = "Frank";
+    }
+  
+    return result;
+  }
+  
+  myFunction("c"); // "Chicago"
+  ```
+  
+  **Else if statement:**
+  
+  ```JavaScript
+  
+function myFunction(val) {
+    var result = "";
+
+    if (val === "a") {
+        result = "Adams";
+    } else if ( val === "b") {
+        result = "Boston";
+    } else if ( val === "c") {
+        result = "Chicago";
+    } else if ( val === "d") {
+        result = "Denver";
+    } else if ( val === "e") {
+        result = "Easy";
+    } else if ( val === "f") {
+        result = "Frank";
+    }
+  
+    return result;
+  }
+  
+  myFunction("c"); // "Chicago"
+  ```
+  
+   **Object:**
+  
+  ```JavaScript
+  
+function myFunction(val) {
+  var result = "";
+
+  var lookup = {
+    "a" : "Adams",
+    "b" : "Boston",
+    "c" : "Chicago",
+    "d" : "Denver",
+    "e" : "Easy",
+    "f" : "Frank"
+  };
+
+  result = lookup[val];
+
+  return result;
+}
+
+myFunction("c"); // "Chicago"
+```
+
 
 ------------------------>
 
