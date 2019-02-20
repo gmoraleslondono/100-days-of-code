@@ -430,6 +430,16 @@ function myFunction(val) {
 myFunction("c"); // "Chicago"
 ```
 
+## Day 30: February 20, Wednesday.
+
+30 days ago I started this journey 😱 the time is going so fast! 🚀
+
+Today I took a little break from JavaScript and got relax playing with #CSS 🥰
+I love drawing with CSS, I think I found a new hobby
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/full/MLxaKb)
+
 
 ------------------------>
 
