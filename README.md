@@ -440,6 +440,15 @@ I love drawing with CSS, I think I found a new hobby
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/MLxaKb)
 
+## Day 31: February 21, Thursday.
+
+🤩 In 20% of JavaScript Beginner Bootcamp (2019) #udemy course, created by @robmerrill.
+
+Excellent material, a lot of exercises, and awesome explanations 😉
+
+**Link(s) to resources**:
+* [Udemy course: JavaScript Beginner Bootcamp (2019)](https://www.udemy.com/javascript-the-basics-for-beginners/) 
+
 
 ------------------------>
 
