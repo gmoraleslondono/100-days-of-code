@@ -449,6 +449,14 @@ Excellent material, a lot of exercises, and awesome explanations 😉
 **Link(s) to resources**:
 * [Udemy course: JavaScript Beginner Bootcamp (2019)](https://www.udemy.com/javascript-the-basics-for-beginners/) 
 
+## Day 32: February 22, Friday.
+
+🧚‍♀️ Using basic JavaScript, HTML,  and CSS I did a little web app that generates random insults 😝🤬 
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/full/Odeewo)
+
+
 
 ------------------------>
 
