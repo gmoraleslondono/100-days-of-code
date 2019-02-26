@@ -549,6 +549,45 @@ Building shapes using pure #CSS. 🔴🔶🔼💚🛑
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/exwrQe?editors=1100)
 
+## Day 35: February 26, Tuesday.
+
+Some #ES6 topics that I learned today:
+
+✅ Differences between var, const and let.
+
+✅ Use Arrow Functions to write anonymous functions.
+
+```JavaScript
+const myFunc = () => "value"
+```
+
+✅ Use methods map() and filter().
+
+```JavaScript
+/*
+Use arrow function syntax to compute the square of only the positive integers (decimal numbers are not integers) 
+in the array realNumberArray and store the new array in the variable squaredIntegers.
+*/
+
+const realNumberArray = [4, 5.6, -9.8, 3.14, 42, 6, 8.34, -2];
+
+const squareList = (arr) => {
+
+  const squaredIntegers = 
+    // use .filter() to sellect numbers that meet the conditions: 1. positive number (number>0) and 2. number without decimals (number%1 == 0)
+        arr.filter((number) => number > 0 && number% 1 === 0)
+    // use .map() to apply a math operation to each number, in this case get the squared (Math.pow(number, 2)) to each integer
+        .map((number) => Math.pow(number, 2));
+
+  return squaredIntegers;
+};
+
+// test your code
+const squaredIntegers = squareList(realNumberArray);
+console.log(squaredIntegers);
+
+// const squaredIntegers = [16, 1764, 36]
+```
 
 ------------------------>
 
