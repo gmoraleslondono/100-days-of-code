@@ -542,6 +542,12 @@ function updateRecords(id, prop, value) {
 updateRecords(5439, "artist", "ABBA");
 ```
 
+## Day 34: February 25, Monday.
+
+Building shapes using pure #CSS. 🔴🔶🔼💚🛑
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/exwrQe?editors=1100)
 
 
 ------------------------>
