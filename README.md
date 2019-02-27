@@ -589,6 +589,99 @@ console.log(squaredIntegers);
 // const squaredIntegers = [16, 1764, 36]
 ```
 
+## Day 36: February 27, Wednesday.
+
+🔥 Finished ES6 chapter on #freeCodeCamp
+
+🐻 I did a mini console App: "Bear, Human, Gun Game" #udemy
+
+**Bear, Human, or Gun**
+
+Bear human gun is just like Rock paper scissors. Each player chooses either bear, human, or gun. The items are compared, and whichever player chooses the more powerful item wins.
+
+The possible outcomes are:
+
+- Bear mauls human.
+
+- Human disarms gun.
+
+- Gun shoots bear.
+
+- If there's a tie, then the game ends in a draw.
+
+**Challenge:**
+
+Our code will break the game into four parts:
+
+1. Get the user's choice.
+
+2. Get the computer's choice.
+
+3. Compare the two choices and determine a winner.
+
+4. Start the program and display the results.
+
+**Solution:**
+
+```JavaScript
+
+function getUserChoice(userInput) {
+  userInput = userInput.toLowerCase();
+  if (userInput === "bear" || userInput === "human" || userInput === "gun") {
+    return userInput;
+  } else {
+    return "Please sellect bear, human or gun";
+  }
+}
+function getComputerChoice() {
+  var choose = ["bear", "human", "gun"];
+  var randomNumber = Math.floor(Math.random() * choose.length);
+  var randomChoose = choose[randomNumber];
+  return randomChoose;
+}
+function determineWinner(userChoice, computerChoice) {
+  if (userChoice === computerChoice) {
+    return "Game tie!";
+  }
+  if (userChoice === "human") {
+    if (computerChoice === "bear") {
+      return "computer won!";
+    } else {
+      return "user won!";
+    }
+  }
+  if (userChoice === "bear") {
+    if (computerChoice === "gun") {
+      return "computer won!";
+    } else {
+      return "user won!";
+    }
+  }
+  if (userChoice === "gun") {
+    if (computerChoice === "human") {
+      return "computer won!";
+    } else {
+      return "user won!";
+    }
+  }
+}
+function playGame() {
+  var promptUserChoice = prompt("Please choose bear, human or gun");
+  promptUserChoice = promptUserChoice.toLowerCase();
+  if (promptUserChoice === "") {
+    return "Please choose bear, human or gun";
+  }
+  var userChoice = getUserChoice(promptUserChoice);
+  var computerChoice = getComputerChoice();
+  console.log(userChoice);
+  console.log(computerChoice);
+  console.log(determineWinner(userChoice, computerChoice));
+}
+playGame();
+
+```
+
+
 ------------------------>
 
 ## Credits
