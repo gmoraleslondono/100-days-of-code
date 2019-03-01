@@ -680,6 +680,13 @@ function playGame() {
 playGame();
 
 ```
+## Day 37: March 1, Friday.
+
+🐨 Here ⬇️  my #CSS Koala 🥳😍
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/full/BbjbyG)
+
 
 
 ------------------------>
