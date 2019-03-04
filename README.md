@@ -687,6 +687,17 @@ playGame();
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/BbjbyG)
 
+## Day 38: March 4, Monday.
+
+🤩 Improving my #CSS skills 🚀
+
+Amazing tutorial by Mike Mangialardi 😻
+
+I drew a  diamond and used animation to do it shine  💎✨
+
+**Link(s) to resources**:
+* [How to Make Pure CSS Images to Progress With Design-Focused Frontend Development](https://coding-artist.teachable.com/p/how-to-make-pure-css-images)
+* [Codepen practice](https://codepen.io/gmoraleslondono/full/NJrmON)
 
 
 ------------------------>
