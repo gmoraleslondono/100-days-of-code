@@ -700,6 +700,12 @@ I drew a  diamond and used animation to do it shine  💎✨
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/NJrmON)
 
 
+## Day 39: March 5, Tuesday.
+
+👋 Working on regex challenges😌
+Hopefully finish this chapter tomorrow 😜
+
+
 ------------------------>
 
 ## Credits
