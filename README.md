@@ -706,6 +706,18 @@ I drew a  diamond and used animation to do it shine  💎✨
 Hopefully finish this chapter tomorrow 😜
 
 
+## Day 40: March 6, Wednesday.
+
+I really enjoy working with #CSS ❤️
+
+Today I got some inspiration from comics...  🤖
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/full/eXdaXP)
+
+
+
+
 ------------------------>
 
 ## Credits
