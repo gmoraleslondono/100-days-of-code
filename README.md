@@ -715,7 +715,123 @@ Today I got some inspiration from comics...  🤖
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/eXdaXP)
 
+## Day 41: March 9, Saturday.
 
+✔️ Mini App to convert temperature using basic JavaScript 🌡️
+
+✔️ Mini App to measure calories using basic JavaScript 🧁🍊 
+
+✔️ Used Chrome DevTools to debug my code 🐛😊
+
+
+**Mini App: Convert temperature**
+
+**Challenge:**
+
+Use class keyword to create a Thermostat class. The constructor accepts Fahrenheit temperature.
+
+Now create getter and setter in the class, to obtain the temperature in Celsius scale.
+
+Remember that C = 5/9 * (F - 32) and F = C * 9.0 / 5 + 32, where F is the value of temperature 
+in Fahrenheit scale, and C is the value of the same temperature in Celsius scale.
+
+**Solution:**
+
+```JavaScript
+function makeClass() {
+    "use strict";
+    /* Alter code below this line */
+    class Thermostat {
+      constructor (temperatureFahrenheit) {
+        this.temperatureFahrenheit = temperatureFahrenheit;
+      }
+      get temperature() {
+        return 5/9 * (this.temperatureFahrenheit - 32);
+      }
+      set temperature(updateTemperature) {
+        this.temperatureFahrenheit = updateTemperature * 9.0 / 5 + 32;
+      }
+    }
+    /* Alter code above this line */
+    return Thermostat;
+  }
+  const Thermostat = makeClass();
+  const thermos = new Thermostat(76); // setting in Fahrenheit scale
+  let temp = thermos.temperature; // 24.44 in C
+  thermos.temperature = 26;
+  temp = thermos.temperature; // 26 in C
+```
+
+
+**Mini App: Calorie Calculator**
+
+**Challenge:**
+
+The program will determine the actual and ideal calories you consumed last week. It will return a message based on if you ate too much or too little.
+
+**Solution:**
+
+```JavaScript
+function inputCaloriesByDay(day) {
+
+    switch (day) {
+        case "Monday":
+            return 3500;
+            break;
+        case "Tuesday":
+            return 1500;
+            break;
+        case "Wednesday":
+            return 2500;
+            break;
+        case "Thursday":
+            return 2000;
+            break;
+        case "Friday":
+            return 3000;
+            break;
+        case "Saturday":
+            return 2800;
+            break;
+        case "Sunday":
+            return 3000;
+            break;
+        default: 
+            return "Please choose a valid day";
+    }
+}
+
+function getTotalCalories() {
+    var sum = inputCaloriesByDay("Monday")+
+    inputCaloriesByDay("Tuesday")+
+    inputCaloriesByDay("Wednesday")+
+    inputCaloriesByDay("Thursday")+
+    inputCaloriesByDay("Friday")+
+    inputCaloriesByDay("Saturday")+
+    inputCaloriesByDay("Sunday");
+
+    return sum;
+}
+
+function getIdealCalories() {
+    var idealDailyCalories = 2000;
+    return idealDailyCalories*7;
+}
+
+function calculateHealthPlan() {
+    var actualCalories = getTotalCalories();
+    var idealCalories = getIdealCalories();
+    if (actualCalories === idealCalories) {
+        return "You ate just the right amount of food!";
+    } else if (actualCalories > idealCalories) {
+        return "Time to head to the gym!";
+    } else if (actualCalories < idealCalories) {
+        return "Time for seconds!";
+    }
+}
+
+console.log(calculateHealthPlan()); //Time to head to the gym!
+```
 
 
 ------------------------>
