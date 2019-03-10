@@ -833,6 +833,73 @@ function calculateHealthPlan() {
 console.log(calculateHealthPlan()); //Time to head to the gym!
 ```
 
+## Day 41: March 10, Sunday.
+
+Today I was working on:
+
+👆 JavaScript Regular Expressions ✍️
+
+✌️ Mini App Magic Eight Ball to predict the future 🧙‍♀️
+
+**Mini App: Magic Eight Ball**
+
+**Challenge:**
+
+The user will be able to input a question, then our program will output a random fortune.
+
+**Solution:**
+
+```JavaScript
+var userName= prompt("What is your name?");
+
+    if (userName) {
+        console.log("Hello " + userName + "!");
+    } else {
+        console.log("Hello!"); 
+    }
+
+var userQuestion= prompt("Please ask a question!");
+
+console.log(userName + " ask: " + userQuestion);
+
+var randomNumber = Math.floor(Math.random()*8);
+
+var eightBall = "";
+
+    switch (randomNumber) {
+       case 0:
+        eightBall = 'Better not tell you now.';
+        break;
+       case 1:
+        eightBall =  'Concentrate and ask again.';
+        break;
+       case 2:
+        eightBall =  'Reply hazy try again';
+        break;
+       case 3:
+        eightBall =  'Cannot predict now';
+        break;
+       case 4:
+        eightBall =  'My reply is no.';
+        break;
+       case 5:
+        eightBall = 'My sources say no';
+        break;
+       case 6:
+        eightBall =  'Outlook not so good';
+        break;
+       case 7:
+        eightBall =  'Signs point to yes';
+        break;
+    }
+
+console.log("Eight Ball answer: "+eightBall);
+
+//Hello Cecilia!
+//Cecilia ask: Will I win
+//Eight Ball answer: My sources say no
+
+```
 
 ------------------------>
 
