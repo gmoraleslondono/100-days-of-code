@@ -833,7 +833,7 @@ function calculateHealthPlan() {
 console.log(calculateHealthPlan()); //Time to head to the gym!
 ```
 
-## Day 41: March 10, Sunday.
+## Day 42: March 10, Sunday.
 
 Today I was working on:
 
