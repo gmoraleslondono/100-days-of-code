@@ -1,4 +1,8 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code
+
+This challenge encourages you to practice whatever you want to learn for 100 days a minimum of 1 hour per day. It is important to write a log with the learned every day.
+
+## Daily log
 
 ## Day 0: January 8, Tuesday.
 
