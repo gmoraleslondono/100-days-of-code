@@ -916,7 +916,7 @@ I did this figure using HTML and CSS 🥰
 
 ## Day 44: March 15, Friday.
 
-📌 I finished the eternal "JavaScript Regular Expressions" section.(I don't know why it took to me so long time to finish it)🤪
+📌 I finished the eternal "JavaScript Regular Expressions" section. I don't know why it took to me so long time to finish it🤪
 
 📌 I did all the Debugging challenges section 🥳
 
