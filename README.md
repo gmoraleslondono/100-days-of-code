@@ -905,6 +905,18 @@ console.log("Eight Ball answer: "+eightBall);
 
 ```
 
+## Day 43: March 14, Thursday.
+
+I did this figure using HTML and CSS 🥰
+
+🤔 I am thinking which will be the next superhero figure 🤭
+
+**Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/full/KEvJNG)
+
+
+
+
 ------------------------>
 
 ## Credits
