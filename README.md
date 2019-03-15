@@ -914,7 +914,13 @@ I did this figure using HTML and CSS 🥰
 **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/KEvJNG)
 
+## Day 44: March 15, Friday.
 
+📌 I finished the eternal "JavaScript Regular Expressions" section.(I don't know why it took to me so long time to finish it)🤪
+
+📌 I did all the Debugging challenges section 🥳
+
+📌 And I started Basic Data Structures section 👩‍🔬
 
 
 ------------------------>
