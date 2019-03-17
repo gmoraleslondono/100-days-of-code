@@ -922,6 +922,16 @@ I did this figure using HTML and CSS 🥰
 
 📌 And I started Basic Data Structures section 👩‍🔬
 
+## Day 45: March 17, Sunday.
+
+Learning JavaScript Data Structures:
+
+🎖️ Creating arrays and consulting them.
+
+🎖️ Modify arrays using methods: push(), unshift(), pop(), shift() and splice().
+
+🎖️ Also, copy or extract information from arrays using slice().
+
 
 ------------------------>
 
