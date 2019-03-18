@@ -933,6 +933,53 @@ Learning JavaScript Data Structures:
 🎖️ Also, copy or extract information from arrays using slice().
 
 
+## Day 46: March 18, Monday.
+
+Today I learn to...
+
+🎀 Use Spread Operator to copy arrays and combine arrays 💫
+
+🎀 Use indexOf() to validate elements in an array ✔️
+
+
+**Using Spread Operator to copy arrays**
+
+```JavaScript
+
+function copyMachine(arr, num) {
+    let newArr = [];
+    while (num >= 1) {
+      newArr.push([...arr]);
+      num--;
+    }
+    return newArr;
+}  
+console.log(copyMachine([true, false, true], 2)); //[true, false, true,true, false, true]
+```
+
+**Using Spread Operator to combine arrays**
+
+```JavaScript
+
+function spreadOut() {
+    let fragment = ['to', 'code'];
+    let sentence = ["learning", ...fragment, "is", "fun"];
+    return sentence;
+} 
+console.log(spreadOut()); // ['learning', 'to', 'code', 'is', 'fun']
+```
+
+**Using indexOf() to validate elements in an array**
+
+```JavaScript
+
+function quickCheck(arr, elem) {
+    return arr.indexOf(elem) >= 0 ? true : false;
+}
+console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms')); //false
+```
+
+
 ------------------------>
 
 ## Credits
