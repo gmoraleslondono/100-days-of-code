@@ -979,6 +979,99 @@ function quickCheck(arr, elem) {
 console.log(quickCheck(['squash', 'onions', 'shallots'], 'mushrooms')); //false
 ```
 
+## Day 47: March 19, Tuesday.
+
+I finished the "Basic Data Structure Challenges" 🥳 and I learned how to:
+
+⛳️ Generate an array of object keys with **Object.keys()**
+
+⛳️ Use **for... in** statement
+
+⛳️ Use keyword **delete**  to remove object properties
+
+**Some examples using for... in statement**
+
+**Example 1**
+
+We've defined a function, countOnline; use a for...in statement within this function 
+to loop through the users in the users object and return the number of users whose online property is set to true.
+
+```JavaScript
+
+let users = {
+  Alan: {
+    age: 27,
+    online: false
+  },
+  Jeff: {
+    age: 32,
+    online: true
+  },
+  Sarah: {
+    age: 48,
+    online: false
+  },
+  Ryan: {
+    age: 19,
+    online: true
+  }
+};
+
+function countOnline(obj) {
+  let count = 0;
+  for (let userKey in obj) {
+  
+    let userValue = obj[userKey];
+
+    if (userValue.online) {
+      count += 1;
+    }
+  };
+  return count;
+}
+
+console.log(countOnline(users)); //2
+```
+**Example 2**
+
+We've defined a function, countOnline; use a for...in statement within this function 
+to loop through the users in the users object and return the number of users whose online property is set to true.
+
+```JavaScript
+let user = {
+    name: 'Kenneth',
+    age: 28,
+    data: {
+      username: 'kennethCodesAllDay',
+      joinDate: 'March 26, 2016',
+      organization: 'freeCodeCamp',
+      friends: [
+        'Sam',
+        'Kira',
+        'Tomo'
+      ],
+      location: {
+        city: 'San Francisco',
+        state: 'CA',
+        country: 'USA'
+      }
+    }
+  };
+  
+  function addFriend(userObj, friend) {
+    // change code below this line  
+   for (let dataKey in userObj) {
+     let data = userObj[dataKey];
+     userObj.data.friends.push(friend);
+     return userObj.data.friends;
+   }
+    // change code above this line
+  }
+  
+  console.log(addFriend(user, 'Pete'));
+
+```
+
 
 ------------------------>
 
