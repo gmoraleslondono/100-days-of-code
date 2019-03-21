@@ -1072,6 +1072,49 @@ let user = {
 
 ```
 
+## Day 48: March 20, Thursday.
+
+Spent a long time trying to solve the "Basic Algorithm Challenges" 😔 only 5 today and I'm feeling like 🤯
+
+I hope soon I could solve them easily and faster 🙏
+
+⬇️ Function to get the largest number in an array with subarrays ⬇️
+
+**Challenge:**
+
+Return Largest Numbers in Arrays.
+
+Return an array consisting of the largest number from each provided sub-array. For simplicity, the provided array will contain exactly 4 sub-arrays.
+
+Remember, you can iterate through an array with a simple for loop, and access each member with array syntax arr[i].
+
+**Solution:**
+
+```JavaScript
+function largestOfFour(arr) {
+    let newArr = [];
+    
+    for (let i = 0; i < arr.length; i++) {
+  
+      let largestNumber = arr[i][0];
+  
+      for (let j = 1; j < arr[i].length; j++) {
+  
+        if (arr[i][j] > largestNumber) {
+          largestNumber = arr[i][j];
+        } 
+      }
+  
+      newArr.push(largestNumber);
+    }
+    return newArr;
+}
+  
+largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
+
+//newArr = [5,27,39,1001]
+```
+
 
 ------------------------>
 
