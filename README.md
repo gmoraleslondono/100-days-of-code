@@ -1129,9 +1129,11 @@ largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 85
 
 I was working in a double slider sign-in and sign-up form challenge  #weeklyCodingChallenge  by @florinpop1705
 
+**Link(s) to resources**:
+* [WEEKLY CODING CHALLENGE - THE COMPLETE GUIDE](https://www.florin-pop.com/blog/2019/03/weekly-coding-challenge/)
+
  **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/QoYBYJ)
-
 
 
 
