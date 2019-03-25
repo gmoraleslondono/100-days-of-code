@@ -1125,6 +1125,15 @@ largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 85
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/YgjWJo)
 
 
+## Day 50: March 24, Sunday.
+
+I was working in a double slider sign-in and sign-up form challenge  #weeklyCodingChallenge  by @florinpop1705
+
+ **Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/full/QoYBYJ)
+
+
+
 
 ------------------------>
 
