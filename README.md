@@ -1136,6 +1136,21 @@ I was working in a double slider sign-in and sign-up form challenge  #weeklyCodi
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/QoYBYJ)
 
 
+## Day 51: April 2, Tuesday.
+
+Being in the middle of my way to achieve #100DaysOfCode :
+
+🚩 I took a week to rest 🤪
+
+🚩 I got my first job as a Junior Frontend Developer 🥳😊
+
+🚩 I did a happy unicorn using HTML/CSS 🦄
+
+ **Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/full/xeGveP)
+
+
+
 
 ------------------------>
 
