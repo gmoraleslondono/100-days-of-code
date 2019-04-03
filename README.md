@@ -1150,6 +1150,18 @@ Being in the middle of my way to achieve #100DaysOfCode :
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/xeGveP)
 
 
+## Day 52: April 3, Wednesday.
+
+Planning to start learning Frontend frameworks 👩‍🎨🖼️🖌️
+
+I was reading about Bootstrap and Vue.js 🤓
+
+**Link(s) to resources**:
+* [Get started with Vue.js](https://vuejs.org/v2/guide/) 
+
+
+
+
 
 
 ------------------------>
