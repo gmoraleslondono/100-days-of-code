@@ -1157,7 +1157,21 @@ Planning to start learning Frontend frameworks 👩‍🎨🖼️🖌️
 I was reading about Bootstrap and Vue.js 🤓
 
 **Link(s) to resources**:
-* [Get started with Vue.js](https://vuejs.org/v2/guide/) 
+* [Get started with Vue.js](https://vuejs.org/v2/guide/)
+
+
+## Day 53: April 7, Sunday.
+
+Today I started Vue.js workshop from @VueVixens community 🦊
+
+🤓 I did Chapter 1 and I am so excited I want to learn more 🥰
+
+**Link(s) to resources**:
+* [Vue.js Vue Vixens Workshops](https://vuevixens.github.io/docs/workshop/)
+
+ **Link(s) to work**:
+* [Codesandbox practice](https://l59rojk169.codesandbox.io/)
+
 
 
 
