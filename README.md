@@ -1172,7 +1172,16 @@ Today I started Vue.js workshop from @VueVixens community 🦊
  **Link(s) to work**:
 * [Codesandbox practice](https://l59rojk169.codesandbox.io/)
 
+## Day 54: April 8, Monday.
 
+🔖Chapter 2:
+
+Learned how to create a data file (JSON object) 🤯 and used it to show information on the website 🥵 Still trying to understand it... maybe tomorrow I will need to go in it again😅
+
+ **Link(s) to work**:
+* [Codesandbox practice](https://l59rojk169.codesandbox.io/#/)
+
+https://l59rojk169.codesandbox.io/#/
 
 
 
