@@ -1181,7 +1181,17 @@ Learned how to create a data file (JSON object) 🤯 and used it to show informa
  **Link(s) to work**:
 * [Codesandbox practice](https://l59rojk169.codesandbox.io/#/)
 
-https://l59rojk169.codesandbox.io/#/
+
+## Day 55: April 10, Wednesday.
+
+🔖Chapter 3 #VueVixens workshop:
+
+Learned about:  axios library, how to call API, some function to iterate arrays 🤩
+
+🧙‍♀️I did my App more interactive, now is it getting random images from the internet 🥳
+
+ **Link(s) to work**:
+* [Codesandbox practice](https://l59rojk169.codesandbox.io/#/)
 
 
 
