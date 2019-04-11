@@ -1194,6 +1194,15 @@ Learned about:  axios library, how to call API, some function to iterate arrays 
 * [Codesandbox practice](https://l59rojk169.codesandbox.io/#/)
 
 
+## Day 56: April 11, Thursday.
+
+Today I worked in a face design 🧔 I made it using HTML/CSS 🥰
+
+ **Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/pen/mgwJJo)
+
+
+
 
 
 
