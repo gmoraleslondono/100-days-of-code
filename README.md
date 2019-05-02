@@ -1202,9 +1202,17 @@ Today I worked in a face design 🧔 I made it using HTML/CSS 🥰
 * [Codepen practice](https://codepen.io/gmoraleslondono/pen/mgwJJo)
 
 
+## Day 57: May 2, Thursday.
 
+😎 I was working in a dark mode page 😊
 
+I got inspiration from Dev.to
 
+**Link(s) to resources**:
+* [Dev](https://dev.to/pqina/poor-man-s-dark-mode-using-css-filter-211n?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
+ **Link(s) to work**:
+* [Codepen practice](https://codepen.io/gmoraleslondono/full/pBYRmy)
 
 ------------------------>
 
