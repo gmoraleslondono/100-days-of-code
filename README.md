@@ -1214,6 +1214,19 @@ I got inspiration from Dev.to
  **Link(s) to work**:
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/pBYRmy)
 
+
+## Day 58: Sep 2, Monday.
+
+It's been a while since my last update but here we are 🙈
+
+🏆 My goal: Learn JavaScript
+
+I started doing some #katas, not to bad with the easy ones 🤪@codewars #javascript #WomenWhoCode #womenintech #CodeNewbie
+
+**Link(s) to resources**:
+* [Codewars](https://www.codewars.com)
+
+
 ------------------------>
 
 ## Credits
