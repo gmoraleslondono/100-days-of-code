@@ -1227,6 +1227,15 @@ I started doing some #katas, not to bad with the easy ones 🤪@codewars #javasc
 * [Codewars](https://www.codewars.com)
 
 
+## Day 59: Sep 3, Tuesday.
+
+Starting from basic concepts: variables, operator, data types... JavaScript comes to me! 🙆‍♀️🥰
+ #javascript #WomenWhoCode #womenintech #CodeNewbie
+
+**Link(s) to resources**:
+* [W3School](https://www.w3schools.com/js/default.asp)
+
+
 ------------------------>
 
 ## Credits
