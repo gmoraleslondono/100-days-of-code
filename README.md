@@ -1215,7 +1215,7 @@ I got inspiration from Dev.to
 * [Codepen practice](https://codepen.io/gmoraleslondono/full/pBYRmy)
 
 
-## Day 58: Sep 2, Monday.
+## Day 58: September 2, Monday.
 
 It's been a while since my last update but here we are 🙈
 
@@ -1227,13 +1227,22 @@ I started doing some #katas, not to bad with the easy ones 🤪@codewars #javasc
 * [Codewars](https://www.codewars.com)
 
 
-## Day 59: Sep 3, Tuesday.
+## Day 59: September 3, Tuesday.
 
 Starting from basic concepts: variables, operator, data types... JavaScript comes to me! 🙆‍♀️🥰
  #javascript #WomenWhoCode #womenintech #CodeNewbie
 
 **Link(s) to resources**:
 * [W3School](https://www.w3schools.com/js/default.asp)
+
+
+## Day 60: September 4, Wednesday.
+
+The challenge continue, today I did some katas.🚀
+ #javascript #WomenWhoCode #womenintech #CodeNewbie
+ 
+ **Link(s) to resources**:
+* [Codewars](https://www.codewars.com)
 
 
 ------------------------>
