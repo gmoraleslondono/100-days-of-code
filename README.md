@@ -1245,6 +1245,186 @@ The challenge continue, today I did some katas.🚀
 * [Codewars](https://www.codewars.com)
 
 
+## Day 61: September 5, Thursday.
+#javascript #WomenWhoCode #womenintech #CodeNewbie
+
+🧐I was looking for some good explanation about forEach, map, filter, reduce and sort.
+And yeah🤯 I found this super nice video📺
+"JavaScript Higher Order Functions & Arrays"
+
+**Link(s) to resources**:
+* [JavaScript Higher Order Functions & Arrays](https://www.youtube.com/watch?v=rRgD1yVwIvE)
+
+
+
+**Here some examples**
+
+```JavaScript
+const companies= [
+  {name: "Company One", category: "Finance", start: 1981, end: 2004},
+  {name: "Company Two", category: "Retail", start: 1992, end: 2008},
+  {name: "Company Three", category: "Auto", start: 1999, end: 2007},
+  {name: "Company Four", category: "Retail", start: 1989, end: 2010},
+  {name: "Company Five", category: "Technology", start: 2009, end: 2014},
+  {name: "Company Six", category: "Finance", start: 1987, end: 2010},
+  {name: "Company Seven", category: "Auto", start: 1986, end: 1996},
+  {name: "Company Eight", category: "Technology", start: 2011, end: 2016},
+  {name: "Company Nine", category: "Retail", start: 1981, end: 1989}
+];
+
+const ages = [33, 12, 20, 16, 5, 54, 21, 44, 61, 13, 15, 45, 25, 64, 32];
+```
+
+**forEach**
+
+```JavaScript
+//show all companies names
+
+//way 1
+for(let i = 0; i < companies.length; i++) {
+   console.log(companies[i]);
+}
+
+//way 2
+companies.forEach(function(company) {
+   console.log(company.name);
+});
+```
+
+**filter**
+
+```JavaScript
+// Get 21 and older
+
+//way 1
+let canDrink = [];
+for(let i = 0; i < ages.length; i++) {
+   if(ages[i] >= 21) {
+     canDrink.push(ages[i]);
+   }
+}
+
+//way 2
+const canDrink = ages.filter(function(age) {
+   if(age >= 21) {
+     return true;
+   }
+});
+
+//way 3
+const canDrink = ages.filter(age => age >= 21);
+
+// Filter retail companies
+
+//way 1
+ const retailCompanies = companies.filter(function(company) {
+   if(company.category === 'Retail') {
+     return true;
+  }
+});
+
+//way 2
+const retailCompanies = companies.filter(company => company.category === 'Retail');
+
+// Get 80s companies
+
+const eightiesCompanies = companies.filter(company => (company.start >= 1980 && company.start < 1990));
+
+// Get companies that lasted 10 years or more
+
+const lastedTenYears = companies.filter(company => (company.end - company.start >= 10));
+```
+
+**map**
+
+```JavaScript
+// Create array of company names
+
+//way 1
+const companyNames = companies.map(function(company) {
+  return company.name;
+});
+
+//way 2
+const testMap = companies.map(function(company) {
+   return `${company.name} [${company.start} - ${company.end}]`;
+});
+
+//way 3
+const testMap = companies.map(company => `${company.name} [${company.start} - ${company.end}]`);
+
+//Double map, square the age and then ^2
+const ageMap = ages
+   .map(age => Math.sqrt(age))
+   .map(age => age * 2);
+```
+
+**Sort**
+
+```JavaScript
+// Sort companies by start year
+
+//way 1
+const sortedCompanies  = companies.sort(function(c1, c2) {
+   if(c1.start > c2.start) {
+     return 1;
+  } else {
+    return -1;
+   }
+});
+
+//way 2
+const sortedCompanies = companies.sort((a, b) => (a.start > b.start ? 1 : -1));
+
+// Sort ages
+const sortAges = ages.sort((a, b) => a - b);
+
+console.log(sortAges);
+```
+
+**reduce**
+
+```JavaScript
+//Sum the ages
+
+//way 1
+let ageSum = 0;
+for(let i = 0; i < ages.length; i++) {
+  ageSum += ages[i];
+}
+
+//way 2
+const ageSum = ages.reduce(function(total, age) {
+  return total + age;
+}, 0);
+
+//way 3
+const ageSum = ages.reduce((total, age) => total + age, 0);
+
+// Get total years for all companies
+
+//way 1
+const totalYears = companies.reduce(function(total, company) {
+   return total + (company.end - company.start);
+}, 0);
+
+//way 2
+const totalYears = companies.reduce((total, company) => total + (company.end - company.start), 0);
+```
+
+**Combine Methods**
+
+```JavaScript
+const combined = ages
+  .map(age => age * 2)
+  .filter(age => age >= 40)
+  .sort((a, b) => a - b)
+  .reduce((a, b) => a + b, 0);
+
+console.log(combined);
+```
+
+
 ------------------------>
 
 ## Credits
