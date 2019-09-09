@@ -1424,6 +1424,29 @@ const combined = ages
 console.log(combined);
 ```
 
+## Day 62: September 9, Monday.
+
+👩‍🔧Practice and practice...
+I made a function to reverse the words in a sentence🤩
+reverseWords("i love code") // should return "code love i"
+#javascript #WomenWhoCode #womenintech #CodeNewbie
+
+Here the code:
+
+```JavaScript
+function reverseWords(str){
+const newArr = str.split(" ")
+  return newArr.reverse().join(" ")
+}
+
+function reverseWords(str){
+  return str.split(" ").reverse().join(" ")
+}
+
+const reverseWords = str => str.split(" ").reverse().join(" ")
+```
+
+
 
 ------------------------>
 
