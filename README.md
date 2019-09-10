@@ -1447,6 +1447,13 @@ const reverseWords = str => str.split(" ").reverse().join(" ")
 ```
 
 
+## Day 63: September 10, Tuesday.
+
+📖 Read some articles 
+👩‍🔧 Practiced on Freecodecamp
+🤪 Cleaned my Download folder (I was keeping so much trash 🗑️)
+#javascript #WomenWhoCode #womenintech #CodeNewbie
+
 
 ------------------------>
 
