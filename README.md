@@ -1455,6 +1455,15 @@ const reverseWords = str => str.split(" ").reverse().join(" ")
 #javascript #WomenWhoCode #womenintech #CodeNewbie
 
 
+
+## Day 64: September 12, Thurday.
+
+Today I was no feeling me good, I am getting sick  🤧 So, I read an great  article. Is time to start to build things! 👩‍💻
+https://www.freecodecamp.org/news/how-to-go-from-coding-tutorials-to-building-your-own-projects-b9ab51074980/amp/?__twitter_impression=true
+#WomenWhoCode #codeNewbie
+
+
+
 ------------------------>
 
 ## Credits
