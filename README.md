@@ -1468,11 +1468,13 @@ https://www.freecodecamp.org/news/how-to-go-from-coding-tutorials-to-building-yo
 
 I was learning some basic #VueJS 
 
-Check out this awesome @scrimba tutorial I just watched: [https://scrimba.com/p/pZ45Hz/crVeyTd #scrimba](https://scrimba.com/p/pZ45Hz/crVeyTd #scrimba)
+Check out this awesome @scrimba tutorial I just watched: [https://scrimba.com/p/pZ45Hz/crVeyTd](https://scrimba.com/p/pZ45Hz/crVeyTd)
 
 #WomenWhoCode #womenintech #CodeNewbie 
 
 Here my pick color result ⬇️
+
+[https://github.com/gmoraleslondono/emojifying](https://github.com/gmoraleslondono/emojifying)
 
 
 
