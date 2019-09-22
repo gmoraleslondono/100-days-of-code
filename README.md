@@ -1464,6 +1464,18 @@ https://www.freecodecamp.org/news/how-to-go-from-coding-tutorials-to-building-yo
 
 
 
+## Day 65: September 22, Sunday.
+
+I was learning some basic #VueJS 
+
+Check out this awesome @scrimba tutorial I just watched: [https://scrimba.com/p/pZ45Hz/crVeyTd #scrimba](https://scrimba.com/p/pZ45Hz/crVeyTd #scrimba)
+
+#WomenWhoCode #womenintech #CodeNewbie 
+
+Here my pick color result ⬇️
+
+
+
 ------------------------>
 
 ## Credits
