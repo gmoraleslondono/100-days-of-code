@@ -1478,6 +1478,17 @@ Here my pick color result ⬇️
 
 
 
+## Day 66: September 23, Monday.
+
+I spend some time learning #VueJS  from the official documentation 😺
+[https://vuejs.org/v2/guide/#What-is-Vue-js](https://vuejs.org/v2/guide/#What-is-Vue-js)
+
+And I started to build a basic todo list application 📝👏
+
+#WomenWhoCode #womenintech #CodeNewbie 
+
+
+
 ------------------------>
 
 ## Credits
