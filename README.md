@@ -1489,6 +1489,23 @@ And I started to build a basic todo list application 📝👏
 
 
 
+## Day 67: September 24, Tuesday.
+Today I was working on my own website 👩‍🏭  
+
+💅 I add some color  
+ 🚀 Set some CSS animation  
+🔢 I did it responsive  
+
+I am so happy with it 😻👏  
+
+
+Check it here ⬇️
+[https://gmoraleslondono.github.io/portfolio/index.html](https://gmoraleslondono.github.io/portfolio/index.html)
+
+#WomenWhoCode #womenintech #CodeNewbie
+
+
+
 ------------------------>
 
 ## Credits
