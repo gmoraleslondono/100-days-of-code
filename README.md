@@ -1506,6 +1506,14 @@ Check it here ⬇️
 
 
 
+## Day 68: September 25, Wednesday.
+
+📝😊I started to build a Todo List App following [vueschool tutorial](https://vueschool.io/courses/vuejs-fundamentals)  
+
+#WomenWhoCode #womenintech #CodeNewbie
+
+
+
 ------------------------>
 
 ## Credits
