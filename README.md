@@ -1525,6 +1525,15 @@ Tutorial: [https://vueschool.io/courses/vuejs-fundamentals](https://vueschool.io
 
 
 
+## Day 70: October 1, Tursday.
+
+Added validation to the required fields on an old project 😺  
+Also, I did some  #codeWars katas to practice #javascript 💪🧠  
+
+#WomenWhoCode #womenintech #CodeNewbie
+
+
+
 ------------------------>
 
 ## Credits
