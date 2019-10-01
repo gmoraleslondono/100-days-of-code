@@ -1514,7 +1514,7 @@ Check it here ⬇️
 
 
 
-## Day 68: September 25, Thursday.
+## Day 69: September 25, Thursday.
 
 👋Still Working in a Todo List App.  
 Frontend almost is done 🤩 tomorrow I need work  in functionalities 🛠️  
