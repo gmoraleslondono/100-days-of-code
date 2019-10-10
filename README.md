@@ -1533,6 +1533,15 @@ Also, I did some  #codeWars katas to practice #javascript 💪🧠
 #WomenWhoCode #womenintech #CodeNewbie
 
 
+## Day 71: October 10, Thursday.
+
+Still working in a #vue todo list app🤠  
+Today I learned to save data using the LocalStorage 🥳  
+
+**Link(s) to resources**:
+* [Add LocalStorage to your Vue app in 2 lines of code](https://travishorn.com/add-localstorage-to-your-vue-app-in-2-lines-of-code-56eb2c9f371b)
+
+
 
 ------------------------>
 
