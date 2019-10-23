@@ -1542,6 +1542,14 @@ Today I learned to save data using the LocalStorage 🥳
 * [Add LocalStorage to your Vue app in 2 lines of code](https://travishorn.com/add-localstorage-to-your-vue-app-in-2-lines-of-code-56eb2c9f371b)
 
 
+## Day 72: October 23, Wednesday.
+
+👩‍🔧Started a new project following  "Vue & Firebase Real-time Chat" 💬tutorial by The Net Ninja [https://youtu.be/nWBtU2QNhxk](https://youtu.be/nWBtU2QNhxk)  
+
+Today all was about setting the project and firebase 👍  
+
+#WomenWhoCode #womenintech #CodeNewbie
+
 
 ------------------------>
 
